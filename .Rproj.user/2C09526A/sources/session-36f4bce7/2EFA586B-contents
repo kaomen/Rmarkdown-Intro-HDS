@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 
-print(14+7)
+print(14+8)
 
 ```
 
@@ -31,9 +31,9 @@ print(y+4)
 ```
 
 ## Types of Myocardial Infarction
-1. Spontaneous MI caused by primary coronary event such as plaque rupture\
-2. Ischaemia due to mismatch between oxygen demand and delivery\
-3. Unexpected cardiac death
-4. Iatrogenic causes due to stenting and PCI\
-5. Iatrogenic causes due to CABG\
+1.Spontaneous MI caused by primary coronary event such as plaque rupture\
+2.Ischaemia due to mismatch between oxygen demand and delivery\
+3.Unexpected cardiac death\
+4.Iatrogenic causes due to stenting and PCI\
+5.Iatrogenic causes due to CABG\
 
